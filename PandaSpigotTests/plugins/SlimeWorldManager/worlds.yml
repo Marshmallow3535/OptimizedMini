@@ -1,0 +1,12 @@
+worlds:
+    airshow:
+        source: file
+        spawn: 0, 118, 0
+        difficulty: peaceful
+        allowMonsters: false
+        allowAnimals: false
+        pvp: true
+        environment: NORMAL
+        worldType: default
+        loadOnStartup: false
+        readOnly: true
